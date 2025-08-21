@@ -1,2 +1,2 @@
-# cukis
+# cukis 🤓
 apuntes de taller complementario
