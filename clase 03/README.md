@@ -84,6 +84,6 @@ void drawHeart(float x, float y, float s) {
   endShape(CLOSE);
 }
 ```
-  
+  me lo hizo chatgpt basado en un dibujo q hice :-)
 
 
